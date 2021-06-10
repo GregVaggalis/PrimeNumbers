@@ -1,0 +1,15 @@
+C:\Users\gtvag\source\repos\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\InterviewProject.exe
+C:\Users\gtvag\source\repos\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\InterviewProject.deps.json
+C:\Users\gtvag\source\repos\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\InterviewProject.runtimeconfig.json
+C:\Users\gtvag\source\repos\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\InterviewProject.runtimeconfig.dev.json
+C:\Users\gtvag\source\repos\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\InterviewProject.dll
+C:\Users\gtvag\source\repos\InterviewProject\InterviewProject\bin\Debug\netcoreapp3.1\InterviewProject.pdb
+C:\Users\gtvag\source\repos\InterviewProject\InterviewProject\obj\Debug\netcoreapp3.1\InterviewProject.csprojAssemblyReference.cache
+C:\Users\gtvag\source\repos\InterviewProject\InterviewProject\obj\Debug\netcoreapp3.1\InterviewProject.MainForm.resources
+C:\Users\gtvag\source\repos\InterviewProject\InterviewProject\obj\Debug\netcoreapp3.1\InterviewProject.csproj.GenerateResource.cache
+C:\Users\gtvag\source\repos\InterviewProject\InterviewProject\obj\Debug\netcoreapp3.1\InterviewProject.AssemblyInfoInputs.cache
+C:\Users\gtvag\source\repos\InterviewProject\InterviewProject\obj\Debug\netcoreapp3.1\InterviewProject.AssemblyInfo.cs
+C:\Users\gtvag\source\repos\InterviewProject\InterviewProject\obj\Debug\netcoreapp3.1\InterviewProject.csproj.CoreCompileInputs.cache
+C:\Users\gtvag\source\repos\InterviewProject\InterviewProject\obj\Debug\netcoreapp3.1\InterviewProject.dll
+C:\Users\gtvag\source\repos\InterviewProject\InterviewProject\obj\Debug\netcoreapp3.1\InterviewProject.pdb
+C:\Users\gtvag\source\repos\InterviewProject\InterviewProject\obj\Debug\netcoreapp3.1\InterviewProject.genruntimeconfig.cache
